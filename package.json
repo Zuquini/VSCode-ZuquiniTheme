@@ -1,10 +1,15 @@
 {
     "name": "zuquini-theme",
     "displayName": "Zuquini Theme",
-    "description": "Just a simple dark theme.",
+    "description": "Justa a refined dark theme.",
     "version": "0.0.1",
+    "icon": "assets/ZuquiniThemeIcon.png",
     "author": {
         "name": "Adriel Zuquini"
+    },
+    "galleryBanner": {
+        "color": "#373436",
+        "theme": "dark"
     },
     "engines": {
         "vscode": "^1.54.0"
@@ -12,18 +17,23 @@
     "categories": [
         "Themes"
     ],
+    "keywords": [
+        "VSCode",
+        "Dark theme",
+        "Zuquini",
+        "Angular theme",
+        "Dark",
+        "Themes"
+    ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/"
-    },
-    "bugs": {
-        "url": "https://github.com/"
+        "url": "https://github.com/Zuquini/VSCode-ZuquiniTheme.git"
     },
     "contributes": {
         "themes": [{
             "label": "Zuquini Theme",
             "uiTheme": "vs-dark",
-            "path": "./themes/Zuquini Theme-color-theme.json"
+            "path": "./themes/ZuquiniTheme-color-theme.json"
         }]
     }
 }
