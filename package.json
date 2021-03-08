@@ -1,6 +1,10 @@
 {
     "name": "zuquini-theme",
     "displayName": "Zuquini Theme",
+    "publisher": "Zuquini",
+    "publishConfig": {
+
+    },
     "description": "Justa a refined dark theme.",
     "version": "0.0.1",
     "icon": "assets/ZuquiniThemeIcon.png",
@@ -8,7 +12,7 @@
         "name": "Adriel Zuquini"
     },
     "galleryBanner": {
-        "color": "#373436",
+        "color": "#1c1c1c",
         "theme": "dark"
     },
     "engines": {

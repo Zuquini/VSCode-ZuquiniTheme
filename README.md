@@ -7,13 +7,13 @@ This extension for Visual Studio Code adds the dark theme: "Zuquini Theme".
 ## Images
 
 **TypeScript**
-![HTML](assets/TypeScript.png)
+![TypeScript](assets/TypeScript.png)
 
 **HTML**
 ![HTML](assets/HTML.png)
 
 **CSS**
-![HTML](assets/CSS.png)
+![CSS](assets/CSS.png)
 
 ## Installation
 
@@ -34,7 +34,7 @@ The font that you see in the demo is [JetBrains Mono Medium](https://www.jetbrai
     // Controls the font family.
     "editor.fontFamily": "'JetBrains Mono Medium', 'Fira Code'",
     // Controls the line height.
-    "editor.lineHeight": 23,
+    "editor.lineHeight": 24,
     // Enables font ligatures
     "editor.fontLigatures": true,
     // Controls if file decorations should use badges.
