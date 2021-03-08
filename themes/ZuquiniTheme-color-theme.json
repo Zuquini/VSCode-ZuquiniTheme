@@ -142,6 +142,12 @@
 			}
 		},
 		{
+			"scope": "support.type.primitive",
+			"settings": {
+				"foreground": "#62b7c2"
+			}
+		},
+		{
 			"scope": "invalid",
 			"settings": {
 				"foreground": "#f44747"
@@ -276,25 +282,25 @@
 				"meta.embedded.assembly"
 			],
 			"settings": {
-				"foreground": "#d0864e"
+				"foreground": "#dc9f65"
 			}
 		},
 		{
 			"scope": "string.tag",
 			"settings": {
-				"foreground": "#d0864e"
+				"foreground": "#dc9f65"
 			}
 		},
 		{
 			"scope": "string.value",
 			"settings": {
-				"foreground": "#d0864e"
+				"foreground": "#dc9f65"
 			}
 		},
 		{
 			"scope": "string.quoted.single",
 			"settings": {
-				"foreground": "#dcac65"
+				"foreground": "#dcb265"
 			}
 		},
 		{
@@ -626,6 +632,6 @@
 			"settings": {
 				"foreground": "#9fc583"
 			}
-		},
+		}
 	]
 }

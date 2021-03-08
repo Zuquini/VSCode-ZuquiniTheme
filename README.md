@@ -20,19 +20,18 @@ This extension for Visual Studio Code adds the dark theme: "Zuquini Theme".
 1. Open **Extensions** sidebar panel in Visual Studio Code. `View → Extensions`
 2. Search for `Zuquini Theme`
 3. Click **Install**
-4. Click **Reload**
-5. File > Preferences > Color Theme > **Zuquini Theme**
+4. File > Preferences > Color Theme > **Zuquini Theme**
 
 ## Font
 
-The font that you see in the demo is [JetBrains Mono Medium](https://www.jetbrains.com/lp/mono/), but [Fira Code](https://github.com/tonsky/FiraCode) works well too.
+The font that you see in the demo is [JetBrains Mono](https://www.jetbrains.com/lp/mono/), but [Fira Code](https://github.com/tonsky/FiraCode) works well too.
 
 ## Recommended settings for a better experience
 
 ```js
 {
     // Controls the font family.
-    "editor.fontFamily": "'JetBrains Mono Medium', 'Fira Code'",
+    "editor.fontFamily": "'JetBrains Mono', 'Fira Code'",
     // Controls the line height.
     "editor.lineHeight": 24,
     // Enables font ligatures
