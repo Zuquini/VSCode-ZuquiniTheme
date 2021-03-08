@@ -7,13 +7,13 @@ This extension for Visual Studio Code adds the dark theme: "Zuquini Theme".
 ## Images
 
 **TypeScript**
-![TypeScript](assets/TypeScript.png)
+![TypeScript](https://raw.githubusercontent.com/Zuquini/VSCode-ZuquiniTheme/master/assets/TypeScript.png)
 
 **HTML**
-![HTML](assets/HTML.png)
+![HTML](https://raw.githubusercontent.com/Zuquini/VSCode-ZuquiniTheme/master/assets/HTML.png)
 
 **CSS**
-![CSS](assets/CSS.png)
+![CSS](https://raw.githubusercontent.com/Zuquini/VSCode-ZuquiniTheme/master/assets/CSS.png)
 
 ## Installation
 
