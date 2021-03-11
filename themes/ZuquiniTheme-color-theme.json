@@ -128,17 +128,45 @@
 		},
 		{
 			"scope": [
-				"entity.other.attribute-name.class.css",
-				"entity.other.attribute-name.class.mixin.css",
-				"entity.other.attribute-name.id.css",
-				"entity.other.attribute-name.parent-selector.css",
-				"entity.other.attribute-name.pseudo-class.css",
-				"entity.other.attribute-name.pseudo-element.css",
+				"entity.other.attribute-name.class",
+				"entity.other.attribute-name.class.mixin",
 				"source.css.less entity.other.attribute-name.id",
 				"entity.other.attribute-name.scss"
 			],
 			"settings": {
 				"foreground": "#4EC9B0"
+			}
+		},
+		{
+			"scope": [
+				"entity.other.attribute-name.id"
+			],
+			"settings": {
+				"foreground": "#ff7c7c"
+			}
+		},
+		{
+			"scope": [
+				"entity.other.attribute-name.parent-selector"
+			],
+			"settings": {
+				"foreground": "#D46565"
+			}
+		},
+		{
+			"scope": [
+				"entity.other.attribute-name.pseudo-class"
+			],
+			"settings": {
+				"foreground": "#b4b3f2"
+			}
+		},
+		{
+			"scope": [
+				"entity.other.attribute-name.pseudo-element"
+			],
+			"settings": {
+				"foreground": "#ebb9fc"
 			}
 		},
 		{
@@ -333,8 +361,8 @@
 			"scope": [
 				"support.type.vendored.property-name",
 				"support.type.property-name",
-				"source.coffee.embedded",
-				"entity.name.tag.css"
+				"source.coffee.embedded"
+				
 			],
 			"settings": {
 				"foreground": "#d6d6d6"
@@ -347,7 +375,7 @@
 				"variable.other.less"
 			],
 			"settings": {
-				"foreground": "#32b7ff"
+				"foreground": "#afd7f5"
 			}
 		},
 		{
@@ -522,20 +550,11 @@
 			"name": "Constants and enums",
 			"scope": [
 				"variable.other.constant",
+				"variable.other.constant.object",
 				"variable.other.enummember"
 			],
 			"settings": {
-				"foreground": "#d6d6d6",
-			}
-		},
-		{
-			"name": "Object keys, TS grammar specific",
-			"scope": [
-				"meta.object-literal.key",
-				"variable.other.readwrite.alias"
-			],
-			"settings": {
-				"foreground": "#9CDCFE"
+				"foreground": "#bcbbe6",
 			}
 		},
 		{
@@ -633,5 +652,6 @@
 				"foreground": "#9fc583"
 			}
 		}
-	]
+	],
+	"semanticHighlighting": true
 }

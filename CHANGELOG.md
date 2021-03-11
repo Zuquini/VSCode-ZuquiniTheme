@@ -2,6 +2,12 @@
 
 All notable changes to the "zuquini-theme" extension will be documented in this file.
 
+## [1.0.2] (2021-03-11)
+
+- Fix CSS colors
+- Update const color
+- Enable Semantic Highlightings
+
 ## [1.0.2] (2021-03-08)
 
 - Update strings color
